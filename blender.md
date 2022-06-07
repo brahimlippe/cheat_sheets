@@ -11,4 +11,4 @@ Edit mode:
 
 Tips
 ====
-Non manifold edges: Edit mode -> select menu -> select all by trait -> non-manifold
+_Non manifold edges_: Edit mode -> select menu -> select all by trait -> non-manifold
