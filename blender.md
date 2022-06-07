@@ -2,10 +2,10 @@ Key mappings
 ------------
 _tab_ : Switch object/edit mode
 
-#Object mode:#
+# Object mode: #
 _shift-A_: Add an object menu
 
-#Edit mode:#
+# Edit mode: #
 
 Tips
 ----
